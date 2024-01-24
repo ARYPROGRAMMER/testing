@@ -20,5 +20,5 @@ samples, guidance on mobile development, and a full API reference.
     2- in screens folder and home_screen file the screen logic is done
     3- theme login is in utils folder
 
-![light Theme](<Screenshot 2023-11-04 at 1.13.07 PM.png>)
-![dark theme](<Screenshot 2023-11-04 at 1.13.19 PM.png>)
+![light Theme](dd.png>)
+![dark theme](<dd2.png>)
